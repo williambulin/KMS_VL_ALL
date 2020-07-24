@@ -1,30 +1,3 @@
-# Information
-Forked from https://github.com/kkkgo/KMS_VL_ALL
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 # KMS_VL_ALL - Smart Activation Script (Version 32)
 
 ## Supported Volume Products:  
